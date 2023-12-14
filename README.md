@@ -18,5 +18,6 @@ Reporting issues: Please report any issues seen, in the issue list. We will addr
 Compatibility: This widget has been tested on Kentico Xperience 13 Core MVC version (13.0.64) and can be used on >=13.0.64
 
 View Structure:Views/Shared/Card/ViewName.cshtml
+
  You can Add Your Own View.
 
