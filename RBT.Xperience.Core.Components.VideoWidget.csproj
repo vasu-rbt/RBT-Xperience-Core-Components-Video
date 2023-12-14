@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <OutputType>Library</OutputType>
+    <Title>RBT.Xperience.Core.Components.VideoWidget</Title>
+    <Version>10</Version>
+    <Authors>Mounika Vejendla</Authors>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Kentico.Xperience.AspNetCore.WebApp" Version="13.0.64" />
+  </ItemGroup>
+
+</Project>
